@@ -1,0 +1,5 @@
+com\mycompany\strategyp\IPoderstrategy.class
+com\mycompany\strategyp\probandoStrategy.class
+com\mycompany\strategyp\Context.class
+com\mycompany\strategyp\StrategyConcretHielo.class
+com\mycompany\strategyp\StrategyConcretFuego.class
